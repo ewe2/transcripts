@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ewe2" audio_filename="originality" version="2" version_date="070628">
+<Topics>
+<Topic id="to1" desc="mic noise"/>
+<Topic id="to2" desc="pause"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="sean" check="no" dialect="native" accent="" scope="global" type="male"/>
+</Speakers>
+<Episode>
+<Section type="filler" startTime="0" endTime="1.382" topic="to1">
+<Turn startTime="0" endTime="1.382" speaker="spk1" mode="spontaneous" fidelity="medium" channel="studio">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1.382" endTime="70.987">
+<Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="1.382" endTime="70.987">
+<Sync time="1.382"/>
+ok time for a small bitch i just ah just got the kiwix 0.version of the offline wikipedia reader, some interesting articles and one of them's about cyberpunk literary phenomenonand i've just got a small little whine because- 
+<Sync time="21.461"/>
+ah David Brin made some very useful points he's ahe's usually a bit of a tease as a writer 
+<Sync time="29.221"/>
+he's got very interesting viewpoints
+<Sync time="31.622"/>
+um particularly for instance on Star Wars I think it was him that
+<Sync time="36.109"/>
+posited that Star Wars itself was evil and George Lucas was the evil
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="40.671"/>
+evil for um inventing it
+<Sync time="42.882"/>
+um he's asking the point you know that ah
+<Sync time="47.431"/>
+
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="48.94"/>
+cyberpunk was a-a useful promotion for science fiction in general
+<Sync time="54.555"/>
+but not particularly original and i wanna
+<Sync time="57.189"/>
+pick up on this because the article has pointed to many of the
+<Sync time="62.107"/>
+precursors of cyberpunk but when we talk about cyberpunk
+<Sync time="66.605"/>
+what we're really talking about is a labelled that ah
+</Turn>
+</Section>
+<Section type="nontrans" startTime="70.987" endTime="73.809" topic="to2">
+<Turn startTime="70.987" endTime="73.809" speaker="spk1">
+<Sync time="70.987"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="73.809" endTime="146.718">
+<Turn speaker="spk1" startTime="73.809" endTime="146.718">
+<Sync time="73.809"/>
+a certain-
+<Sync time="75.207"/>
+the popularity of certain science fiction novels, we're not really
+<Sync time="79.827"/>
+talking - i mean that - about something that's -
+<Sync time="83.052"/>
+all that terribly distinct
+<Sync time="85.691"/>
+um... it's one of those buzzwords that come around
+<Sync time="90.491"/>
+but his point about "oh you know, cyberpunk great
+<Sync time="95.593"/>
+promotional tool but hardly original" i wanna make an argument that i-
+<Sync time="103.431"/>
+ah i often see this kind of um
+<Sync time="111.519"/>
+i guess ah what'd you call it a um
+<Sync time="115.352"/>
+almost a political tool used whenever you want to discredit
+<Sync time="120.603"/>
+ah something that's come up you don't
+<Sync time="125.029"/>
+exactly agree with you say "oh they're not original"
+<Sync time="128.003"/>
+i'm sick of hearing this, i've been reading
+<Sync time="132.175"/>
+stuff about the um the supposed "unoriginality" of Linux
+<Sync time="137.926"/>
+because it was based on Minix and 
+<Sync time="140.323"/>
+the simple point is that you don't-
+<Sync time="142.904"/>
+noone starts from scratch everybody
+<Sync time="145.569"/>
+starts with
+</Turn>
+</Section>
+<Section type="filler" startTime="146.718" endTime="147.407">
+<Turn speaker="spk1" startTime="146.718" endTime="147.407">
+<Sync time="146.718"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="147.407" endTime="461.821">
+<Turn speaker="spk1" startTime="147.407" endTime="461.821">
+<Sync time="147.407"/>
+the bones of a good idea from somewhere else
+<Sync time="151.899"/>
+for instance the sourcecode of an existing program
+<Sync time="156.307"/>
+ah maybe you want to make a change or do something
+<Sync time="161.347"/>
+ah different with it and ah eventually the ah product evolves into something that's new
+<Sync time="169.019"/>
+but that's a process of evolution, it's not
+<Sync time="172.972"/>
+a question of whether
+<Sync time="175.415"/>
+you're original or not, i used to be
+<Sync time="178.336"/>
+quite concerned with that phrase
+<Sync time="181.211"/>
+once ah i as a musician
+<Sync time="184.478"/>
+i used to think that
+<Sync time="186.448"/>
+you had to be original there was this real thing to be original it took me years to realize its impossible to be original
+<Sync time="193.857"/>
+and yes there is the um
+<Sync time="197.387"/>
+the old line ah from picasso that "great artists steal whereas good artists borrow" and
+<Sync time="206.511"/>
+we've now entered a
+<Sync time="210.837"/>
+almost an ideological but definitely a legal cultural world where borrowing is definitely not permitted
+<Sync time="219.207"/>
+and lawrence lessig has made a um
+<Sync time="223.093"/>
+passionate point about that
+<Sync time="225.539"/>
+arguing that if we clamp down
+<Sync time="231.059"/>
+on the rights of the public domain,
+<Sync time="234.607"/>
+at the rate that we're doing once there is no public domain there will not be any great creativity because nobody will have anything to base
+<Sync time="245.744"/>
+their work on, you cannot work in a vaccum, i've never, it's a very very rare instance where something new has come along 
+<Sync time="257.972"/>
+say you're you know give or take, ah err as lessig himself argued ah
+<Sync time="265.626"/>
+any major invention of the last 150 years normally had about 3 or 4 people
+<Sync time="274.632"/>
+come up with the idea independently, sometimes in relationship to each other, it's quite rare
+<Sync time="281.056"/>
+um and maybe one person had the best implementation of that
+<Sync time="287.56"/>
+and they were called the inventor or the originator of it um there was ah many years ago a
+<Sync time="295.934"/>
+i noticed that different countries would claim that their person had invent-independentally invented ah radio for instance everybody was claiming
+<Sync time="308.756"/>
+that their own country had invented radio it was impossible of course
+<Sync time="314.044"/>
+no way um
+<Sync time="318.268"/>
+that any one person had invented radio it was a series of accidents
+<Sync time="323.335"/>
+sometimes the wily, in the caze of edison and marconi got, got there first
+<Sync time="329.57"/>
+but often there was something missing that somebody else added that made it worthwhile
+<Sync time="334.632"/>
+ah and
+<Sync time="339.168"/>
+the argument that - coming back to the cyberpunk argument
+<Sync time="343.266"/>
+"cyberpunk isn't original" but that's not the point, the point is that
+<Sync time="348.007"/>
+a certain fashion - literary fashion - arose
+<Sync time="353.21"/>
+and acted upon and gave birth to
+<Sync time="358.117"/>
+an arguably distinct genre narrow as it is because
+<Sync time="363.028"/>
+i mean when we're talking about the genre of cyberpunk we're really arguing about
+<Sync time="367.087"/>
+a certain style of science fiction it's not, it's not as if
+<Sync time="372.314"/>
+it's a completely distinct field of its own
+<Sync time="377.438"/>
+so when people argue "were they original?" ok well, so what?
+<Sync time="383.222"/>
+what if they, what if they weren't? why is that, why is that pertinent?
+<Sync time="388.61"/>
+why is any of that pertinent, it's impossible to be original
+<Sync time="395.26"/>
+ah as we know the origin "the origin" see that's where the word comes from it's a greek root
+<Sync time="405.478"/>
+to originate something, as Tolkien made one of his characters observe, is too great a claim for any, the best we can do is work with what we're given
+<Sync time="418.274"/>
+and do our best with that, somebody else will pick it up and take it on
+<Sync time="426.328"/>
+and so the story goes on, so we're only part of, we didn't start it, we're certainly not going to end it
+<Sync time="435.972"/>
+and ah i believe that's what people should be cognisant of
+<Sync time="442.876"/>
+when you have arguments like this because it, it basically, all the argument "it's not original" is meant to do is to tell you
+<Sync time="454.16"/>
+"oh its not exciting, it's not new, it's not progress, please ignore it because it threatens us"
+</Turn>
+</Section>
+<Section type="filler" topic="to1" startTime="461.821" endTime="464.400">
+<Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="461.821" endTime="464.400">
+<Sync time="461.821"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

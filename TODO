@@ -1,0 +1,43 @@
+$Id: TODO 49 2007-07-12 04:01:58Z ewe2 $
+
+2007-06-15
+
+This is a version-controlled collection of transcriptions from memos done with
+the transcriber program from the debian etch distribution. Unless required,
+the files remain in the native XML format of transcriber, although they can be
+converted to other formats.
+
+The idea of the memos came from learning that philip adams writes his columns
+by dictation and i thought perhaps if i made a habit of recording my thoughts
+i might have a better chance of retaining insights i often lose in the process
+of thinking about topics i want to write about although i had already tried
+some lengthy memos before i heard of phil's method.
+
+Obviously the memos themselves won't be VC'd but they will be kept otherwise.
+Any other information or changes to the archive will be mentioned here. It's
+likely I'll have to write an xsl file to make the transcriptions more readable
+say for web-based reading. To that end I archive the dtd to make xsl
+development simpler.
+
+
+2007-06-28
+
+the Makefile will be designed along the lines of the mdate Makefile where
+specific or all targets are transcriptions to output in text or html
+eventually.
+
+
+2007-06-29
+
+we'll build a similar tool to svn2cl. have the stylesheet take parameters from
+the script so we can vary the output. two stylesheets, default will be text,
+html optional. README now describes the project, this is for personal working
+notes.
+
+
+2007-07-12
+
+the basic gruntwork has been done, we can now worry about the translation
+details, the build system and version control. Get another Google translation
+of all Transcriber documentation
+(http://trans.sourceforge.net/en/transguid.php (incomplete).

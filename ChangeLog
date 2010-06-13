@@ -1,0 +1,56 @@
+2007-07-12  ewe2
+
+	* [r47] ChangeLog, originality.html, originality.txt, testing.html,
+	  testing.txt, transhtml.xsl: small fixes, and version-controlled
+	  keyworded output
+	* [r46] trs2txt: make html stylesheet default and alter output with
+	  helper programs
+	* [r45] README, TODO: new stuff
+	* [r44] Makefile: updated for targets
+	* [r43] transtxt.xsl: finalized txt stylesheet, superceded by html
+	  stylesheet
+	* [r42] transhtml.xsl: added version control keyword for output
+	* [r41] originality.html, originality.txt, testing.html,
+	  testing.txt: initial output of current transcriptions originality
+	  and testing
+	* [r40] saxon: testing saxon output, drop from DIST
+	* [r39] trs2txt: new improved trs2txt that removes the need for a
+	  text template
+
+2007-07-07  ewe2
+
+	* [r38] trans2.xsl: replaced with contents of transtxt hack
+	* [r37] transtxt.xsl: fixed bug, more hacking
+
+2007-07-03  ewe2
+
+	* [r36] ChangeLog, Makefile, trans.xsl, transcl.xsl, transtxt.xsl,
+	  trs2txt: added html template, trs2txt has html option
+	* [r35] transhtml.xsl: transhtml.xsl xhtml template
+	* [r34] transcl.xsl: transcl.xsl temp file
+
+2007-06-28  ewe2
+
+	* [r33] ChangeLog, TODO, trs2txt: added initial version of trs2txt
+	* [r32] ChangeLog, NOTE, TODO, trans.xsl: NOTE is now TODO, more
+	  updates
+	* [r31] trans2.xsl: alternate stylesheet which doesn't yet work
+	* [r30] README: added main README so i can rework NOTE to a TODO
+
+2007-06-27  ewe2
+
+	* [r29] ChangeLog, Makefile, trans.xsl: added basic Makefile, xsl
+	  stylesheet and settled ChangeLog style
+	* [r22] originality.trs: cleaning up initial transcription
+
+2007-06-14  ewe2
+
+	* [r21] .cvsignore, ChangeLog, NOTE: added changelog .cvsignore
+	* [r20] NOTE, testing.trs, trans-14.dtd: initial transcripts files
+	  import
+
+2007-06-14  root
+
+	* [r19] transcripts, transcripts/branches, transcripts/tags, .:
+	  initial layout for transcriptions
+

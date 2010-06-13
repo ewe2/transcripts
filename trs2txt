@@ -1,0 +1,44 @@
+#!/bin/sh 
+# $Id: trs2txt 46 2007-07-12 01:46:38Z ewe2 $
+#
+# trs2txt, a transcription utility to convert transcriber .trs files to output
+# text or html.
+
+XSL=0;
+
+prog=`basename $0`
+while [ $# -gt 0 ]
+do
+  case "$1" in
+	 --txt)
+	 XSL=1;
+	 shift
+	 ;;
+	--help)
+	echo "Usage: $prog [OPTION]..."
+	echo "Generate txt or html from a .trs data file, output to stdout"
+	echo ""
+	echo " --txt          use the txt template"
+	echo " -h, --help      help"
+	echo ""
+	exit 0
+	;;
+	-*)
+	echo "$prog: invalid option -- $1"
+	echo "Try \`$prog --help' for more information."
+	exit 1
+	;;
+	*)
+	 arg=`echo "$1" | sed "s/'/'\"'\"'/g"`
+	 shift
+	 ;;
+  esac
+done
+
+
+if [ $XSL -eq 1 ];
+then
+	xsltproc --nonet transhtml.xsl $arg | html2text -style pretty -nobs > `basename "$arg" .trs`.txt;
+else
+	xsltproc --nonet transhtml.xsl $arg | tidy -q -m -o `basename "$arg" .trs`.html;
+fi

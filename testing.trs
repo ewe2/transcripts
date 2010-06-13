@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ewe2" audio_filename="testing" version="1" version_date="070614" xml:lang="en">
+<Topics>
+<Topic id="to1" desc="testing"/>
+<Topic id="to2" desc="mic noise"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="sean" check="no" type="male" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode program="level testing" air_date="">
+<Section type="nontrans" startTime="0" endTime="0.594" topic="to2">
+<Turn startTime="0" endTime="0.594" speaker="spk1" mode="spontaneous" fidelity="medium" channel="studio">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to1" startTime="0.594" endTime="10.988">
+<Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="0.594" endTime="10.988">
+<Sync time="0.594"/>
+testing testing one two three
+<Sync time="2.884"/>
+just testing to see what this sounds like
+<Sync time="5.418"/>
+if i've got this hung around my neck
+<Sync time="7.72"/>
+while i'm doing stuff
+<Sync time="9.471"/>
+ok let's see 
+</Turn>
+</Section>
+<Section type="nontrans" topic="to2" startTime="10.988" endTime="12.672">
+<Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="10.988" endTime="12.672">
+<Sync time="10.988"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

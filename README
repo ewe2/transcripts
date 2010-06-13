@@ -1,0 +1,26 @@
+README for Transcripts and trs2txt
+
+$Id: README 45 2007-07-12 01:46:08Z ewe2 $
+===========================================
+
+This is a project based on the tcl tool transcriber, saved here are not only
+transcripts in native XML format (.trs) but tools to convert their data into
+readable transcripts.
+
+The project is planned in several stages:
+
+build the stylesheets - basically completed
+build the tools that use them - done
+finish translating transcriber and modify the system.
+
+Taking each in turn, the stylesheets are intented to output to text and html
+from the XML trs format and will take parameters from a command-line script
+wrapper, similar to the method of svn2cl. The parameters will include such
+things as linelength, transcription levels, and optional attributes.
+Transcriber allows great transcription detail, but is unfortunately
+incompletely translated at that depth and will require modification to fix
+this. Thus its desireable to simplifiy transformation in
+sections until this is done, or if the detail is neither complete nor wished.
+
+The programs html2text and tidy will be required to build the output,
+currently two transcripts are supported, more will be added as they are done.
